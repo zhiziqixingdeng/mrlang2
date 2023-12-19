@@ -80,7 +80,7 @@ int main(){
      cout<<"break;"
    }
    else{
-     cout<<"程序错误"<<endl;
+     cout<<s[i].to<<s[i].to2<<endl;
      break;
    }
   }
